@@ -1,10 +1,10 @@
-# class files and txt files ignored
-/.metadata/
-*.class
-*.txt
-*.json
 .classpath
+
 .project
+
+.settings/*
+
 /bin/*
-/.settings/*
-/bin/
+
+src/module-info.java
+ 
